@@ -30,6 +30,9 @@
     <img alt="MongoDB" height="30px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     
     <img alt="Spring" height="30px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+
+    <img alt="Spring" height="30px" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
+
   
   - #### Other
   
